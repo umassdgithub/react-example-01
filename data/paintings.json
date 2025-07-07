@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Woman with a Parasol",
+    "artist": "Claude Monet",
+    "filename": "image/017040.jpg"
+  },
+  {
+    "title": "Portrait of a young women",
+    "artist": "Therese Schwartze",
+    "filename": "image/130010.jpg"
+  },
+  {
+    "title": "Three girls from Amsterdam Orphanage",
+    "artist": "Therese Schwartze",
+    "filename": "image/130020.jpg"
+  },
+  {
+    "title": "The Bridge at Argenteuile",
+    "artist": "Claude Monet",
+    "filename": "image/017080.jpg"
+  },
+  {
+    "title": "Self Portrait",
+    "artist": "Vincent Van Gogh",
+    "filename": "image/019170.jpg"
+  },
+  {
+    "title": "Madame Bergeret",
+    "artist": "Francois Boucher",
+    "filename": "image/107030.jpg"
+  },
+  {
+    "title": "Interior with Women beside a Linen Cupboard",
+    "artist": "Pieter de Hooch",
+    "filename": "image/126020.jpg"
+  },
+  {
+    "title": "The Merry Family",
+    "artist": "Jan Steen",
+    "filename": "image/124020.jpg"
+  },
+  {
+    "title": "Self Portrait",
+    "artist": "Judith Leyster",
+    "filename": "image/112020.jpg"
+  },
+  {
+    "title": "Portrait of Feyntje van Steenkiste",
+    "artist": "Frans Hals",
+    "filename": "image/123020.jpg"
+  }
+]

@@ -1,0 +1,58 @@
+.container{
+display:flex;
+flex-wrap: wrap;
+gap:10px;
+
+}
+
+.card{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 240px;
+  height: 324px;
+  background: #F3F1F1;
+}
+
+.image{
+width: 200px;
+height: 200px;
+}
+
+.title 
+{
+  text-align: center;
+height: 80px;
+font-family: sans-serif;
+font-style: normal;
+font-size: 16pt;
+color: #000000;
+}
+.artist 
+{
+  text-align: center;
+  height: 20px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-size: 10pt;
+  color: #4a4646;
+}
+
+.star-container{
+  display: flex;
+  width: 100%;
+  justify-content: right;
+
+}
+
+.star{
+  font-size: 24pt;
+  height: 50px;
+  text-align: center;
+  color: #777676;
+  margin: 5px;
+  cursor:pointer;
+}
+.star.active{
+  color: gold;
+}
